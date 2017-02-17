@@ -1,0 +1,5 @@
+git add 
+  to add a file to the cloud from changes to Staged
+  
+  git commit
+    to sent staged to comitted
